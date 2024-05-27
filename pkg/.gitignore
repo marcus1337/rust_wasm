@@ -1,0 +1,5 @@
+assets/
+hello_wasm.*
+hello_wasm_bg.*
+*.wasm
+pkg/assets/ 
